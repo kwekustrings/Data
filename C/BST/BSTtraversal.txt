@@ -1,0 +1,15 @@
+//Tree Traversal:- process of visiting each node exactly ones in some order
+// Visit - Reading / Processing data in a node 
+
+/*********************** Tree Traversal **************************
+ *  1. Breadth-first 
+ *  Level-Order traversal 
+ * 
+ *  2. Depth-first
+ *  <root><left><right> - Preorder traversal 
+ *  <left><root><right> - Inorder traversal
+ *  <left><right><root> - Postorder traversal
+ * 
+ * **************************************************************/
+
+inorder of a binary search tree would give you a sorted list
